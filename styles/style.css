@@ -203,3 +203,21 @@ box contant close */
     font-size: 97px;
     font-weight: bold;
 }
+/* castomar-section close */
+
+/* footer section on */
+.footer{
+    max-width: 1440px;
+    background-color: #000000;
+}
+.logo h1{
+    font-size: 100px;
+}
+.bpttom li{
+    list-style: none;
+    display: inline;
+    margin-right: 25px;
+}
+.button li a{
+    text-decoration: none;
+}
