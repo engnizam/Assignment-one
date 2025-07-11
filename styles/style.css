@@ -37,6 +37,9 @@ body {
 }
 .btn:hover {
   color: orange;
+  transform: scale(1.05);
+  cursor: pointer;
+  opacity: 0.9;
   background-color: rgb(54, 54, 56);
   box-shadow: 0 8px 20px rgb(54, 54, 56);
 }
