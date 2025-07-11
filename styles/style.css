@@ -1,5 +1,5 @@
 * {
-  font-family: "Raleway", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
   padding: 0;
@@ -36,9 +36,12 @@ body {
   border: none;
 }
 .btn:hover {
-  color: rgb(7, 0, 0);
-  background-color: rgb(239, 239, 240);
-  box-shadow: 0 8px 20px #4e47ff;
+  color: orange;
+  background-color: rgb(54, 54, 56);
+  box-shadow: 0 8px 20px rgb(54, 54, 56);
+}
+.b-margin {
+  margin-top: 37px;
 }
 .bannar {
   display: inline-block;
@@ -186,6 +189,10 @@ body {
   height: 364px;
   border-radius: 48px;
   overflow: hidden;
+  margin: 0 auto;
+}
+.pster-margin {
+  margin-bottom: 20px;
 }
 
 /* castomar-comant */
