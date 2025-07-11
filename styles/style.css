@@ -38,6 +38,10 @@ nav{
     border-radius: 10px;
     border: none;
 }
+.btn:hover{
+   background-color: #4E47FF;
+    box-shadow: 0 8px 20px rgba(79, 70, 229, 0.4);
+}
 .bannar{
     display: inline-block;
     text-align: center;
@@ -125,6 +129,11 @@ nav{
 
 /* section2 close */
 
+/* box contant start */
+
+.contant{
+    gap: 50px;
+}
 .contant-box{
     max-width: 1140px;
     margin: 137px auto;
@@ -133,6 +142,7 @@ nav{
     justify-content: space-between;
 }
 .box-contant-title{
+    padding-bottom: 50px;
     font-size: 40px;
     font-weight: bold;
     text-align: center;
@@ -152,4 +162,44 @@ nav{
 .costomar{
     display: flex;
     gap: 14px;
+}
+box contant close */
+
+/* poster contant start */
+
+/* .poster-cantont{
+    max-width: 1140px;
+    height: 690px;
+    margin: 0 auto;
+    width: 100%;
+}
+.poster-caption{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+}
+.poster-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.contant-image{
+    width: 840px;
+    height: 364px; 
+    border-radius: 48px;
+    overflow: hidden;
+} */
+
+/* castomar-comant */
+
+.castomar-coment{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1140px;
+    width: 100%;
+    overflow: hidden;
+}
+.castomar-title{
+    font-size: 97px;
+    font-weight: bold;
 }
