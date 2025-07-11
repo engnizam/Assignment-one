@@ -229,7 +229,8 @@ body {
 }
 .footar-section {
   max-width: 521px;
-  margin: 0 auto;
+  margin: auto;
+  padding: 100px 450px;
   text-align: center;
 }
 .logo h1 {
